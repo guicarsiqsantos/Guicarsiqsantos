@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Olá, Eu sou Guilherme 👋
 
 - 🔭 Estudante da ETEC JALES...
 - 🌱 Cursando Desenvolvimento de Sistema.
