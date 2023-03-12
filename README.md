@@ -1,6 +1,6 @@
 ### Olá, Eu sou Guilherme 👋
 
-- 🔭 Estudante da ETEC JALES...
+- 🔭 Estudante da FATEC JALES...
 - 🌱 Cursando Desenvolvimento de Sistema.
 
 <div align="center">
