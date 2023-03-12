@@ -1,7 +1,8 @@
 ### Olá, Eu sou Guilherme 👋
 
-- 🔭 Estudante da FATEC JALES...
-- 🌱 Cursando Desenvolvimento de Sistema.
+- 🎓 Graduação Técnico em desenvolvimento de sistema - ETEC JALES
+- 🔭 Estudante da FATEC JALES..
+- 🌱 Cursando ANILESE DESENVOLVIMENTO DE SISTEMA.
 
 <div align="center">
   <a href="https://github.com/guicarsiqsantos">
