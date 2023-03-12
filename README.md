@@ -1,6 +1,6 @@
 ### Olá, Eu sou Guilherme 👋
 
-- 🎓 Graduação Técnico em desenvolvimento de sistema - ETEC JALES
+- 🎓 Técnico em desenvolvimento de sistema - ETEC JALES
 - 🔭 Estudante da FATEC JALES..
 - 🌱 Cursando ANALISE DESENVOLVIMENTO DE SISTEMA..
 
