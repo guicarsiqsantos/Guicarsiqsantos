@@ -26,5 +26,6 @@
   <div> 
   <a href="https://www.instagram.com/guilhermecarvalho66" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "guicarsiqsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/guilherme-santos02/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw1pHOgf47SffYfGH_V-fPpF&ust=1681229226937000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCOjmn4jZn_4CFQAAAAAdAAAAABAI" target="_blank"></a>
   
 </div>
