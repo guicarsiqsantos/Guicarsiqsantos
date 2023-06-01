@@ -29,3 +29,6 @@
  <a href="https://www.linkedin.com/in/guilherme-santos02" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
+
+  
+  ![Snake animation](https://github.com/muridev017/muridev017/blob/output/github-contribution-grid-snake.svg)
