@@ -12,7 +12,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guicarsiqsantos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicarsiqsantos&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
-  
+
   <h2 align="center">Skills </h2>
 
 <p align="center">
@@ -32,3 +32,6 @@
   
   
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
+
+
+</br>
