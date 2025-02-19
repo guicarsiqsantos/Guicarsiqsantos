@@ -3,8 +3,8 @@
 
 ### Olá, Eu sou Guilherme 👋
 
-- 🎓 Técnico em desenvolvimento de sistema - ETEC JALES
-- 🔭 Estudante da FATEC JALES..
+- 🎓 Desenvolvimento de sistema
+- 🔭 Formado na FATEC JALES..
 - 🌱 Cursando ANALISE DESENVOLVIMENTO DE SISTEMA..
 
 <div align="center">
