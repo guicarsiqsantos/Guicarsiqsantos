@@ -5,7 +5,7 @@
 
 - 🎓 Desenvolvimento de sistema
 - 🔭 Formado na FATEC JALES..
-- 🌱 Curso formado: ANALISE DESENVOLVIMENTO DE SISTEMA..
+- 🌱 Curso formado: ANALISE DESENVOLVIMENTO DE SISTEMA.
 
 <div align="center">
   <a href="https://github.com/guicarsiqsantos">
